@@ -25,6 +25,7 @@ reated by .ignore support plugin (hsz.mobi)
 hs_err_pid*
 
 
+.idea/
 
 toy-code-for-java/target/
 toy-code-for-java/.idea/

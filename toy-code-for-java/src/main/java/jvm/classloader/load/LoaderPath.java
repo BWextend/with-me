@@ -1,9 +1,9 @@
 package jvm.classloader.load;
 
 /**
- *@description Java自带加载器加载路径
- *@author Zhangjie
- *@date 2020/05/18 
+ * @description Java自带加载器加载路径
+ * @author Zhangjie
+ * @date 2020/05/18
  */
 public class LoaderPath {
 

@@ -1,9 +1,9 @@
 package jvm.mnemonic;
 
 /**
- *@description 【助记符】ldc 将int、float、String类型的值从常量池压入栈顶
- *@author Zhangjie
- *@date 2020/03/30 
+ * @description 【助记符】ldc 将int、float、String类型的值从常量池压入栈顶
+ * @author Zhangjie
+ * @date 2020/03/30
  */
 public class Ldc {
 

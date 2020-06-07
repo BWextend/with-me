@@ -3,9 +3,9 @@ package jvm.classloader.init;
 /**
  * 对于数组实例，其类型是由JVM在运行期动态生成的。
  *
- *@description 【类加载】数组初始化
- *@author Zhangjie
- *@date 2020/03/30 
+ * @description 【类加载】数组初始化
+ * @author Zhangjie
+ * @date 2020/03/30
  */
 public class ArrayInit {
 

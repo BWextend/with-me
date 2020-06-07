@@ -3,9 +3,9 @@ package jvm.classloader.load;
 /**
  * 使用-XX:TraceClassUnloading配置来跟踪类的卸载
  *
- *@description 【类加载器】类的卸载
- *@author Zhangjie
- *@date 2020/04/13 
+ * @description 【类加载器】类的卸载
+ * @author Zhangjie
+ * @date 2020/04/13
  */
 public class ClassUninstall {
 

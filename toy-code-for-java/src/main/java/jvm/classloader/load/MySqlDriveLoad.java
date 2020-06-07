@@ -5,9 +5,9 @@ import java.util.Iterator;
 import java.util.ServiceLoader;
 
 /**
- *@description 加载mysql驱动程序实现类
- *@author Zhangjie
- *@date 2020/06/01 
+ * @description 加载mysql驱动程序实现类
+ * @author Zhangjie
+ * @date 2020/06/01
  */
 public class MySqlDriveLoad {
 

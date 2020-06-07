@@ -10,9 +10,9 @@ import jvm.classloader.init.ArrayInit;
  *
  * 3、不同类加载器对象对`binary name`相同的类创建的命名空间是不同的，不通的。这些来自不同命名空间`binary name`却相同的是并存在JVM中的，许多框架有用到这项技术。
  *
- *@description 双亲委托机制的作用
- *@author Zhangjie
- *@date 2020/05/26 
+ * @description 双亲委托机制的作用
+ * @author Zhangjie
+ * @date 2020/05/26
  */
 public class ParentalCommissionEffect {
 

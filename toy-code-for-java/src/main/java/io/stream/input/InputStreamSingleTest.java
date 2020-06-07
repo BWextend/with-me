@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * @author Zhangjie
+ * @description Zhangjie
  * @description 输入流使用
  * @date 2020/03/08
  */

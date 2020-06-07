@@ -3,9 +3,9 @@ package jvm.classloader.init;
 /**
  * 初始化是按照静态变量的生命顺序进行初始化的
  *
- *@description 【类加载】从准备阶段到初始化结算
- *@author Zhangjie
- *@date 2020/03/31 
+ * @description 【类加载】从准备阶段到初始化结算
+ * @author Zhangjie
+ * @date 2020/03/31
  */
 public class FromReadyToInit {
 

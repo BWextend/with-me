@@ -9,7 +9,7 @@ import java.io.OutputStream;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * @author Zhangjie
+ * @description Zhangjie
  * @description 使用i/o流实现文件拷贝
  * @date 2020/03/08
  */

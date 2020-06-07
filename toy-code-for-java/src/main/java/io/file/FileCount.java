@@ -4,7 +4,7 @@ import java.io.File;
 import lombok.Data;
 
 /**
- * @author Zhangjie
+ * @description Zhangjie
  * @description 封装文件计数信息
  * @date 2020/03/08
  */

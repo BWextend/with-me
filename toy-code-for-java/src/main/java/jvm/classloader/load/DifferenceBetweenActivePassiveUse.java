@@ -9,7 +9,7 @@ package jvm.classloader.load;
  * -XX:<option>=value，表示将 option 的值设置为 value
  *
  * @description 【类加载】类主动使用与被动使用的区别
- * @author Zhangjie
+ * @description Zhangjie
  * @date 2020/03/28
  */
 public class DifferenceBetweenActivePassiveUse {

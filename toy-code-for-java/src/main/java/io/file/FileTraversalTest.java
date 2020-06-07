@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.stream.Stream;
 
 /**
- * @author Zhangjie
+ * @description Zhangjie
  * @description 文件遍历
  * @date 2020/03/08
  */

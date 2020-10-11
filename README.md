@@ -74,7 +74,7 @@ A self-record.
 ---
 
 - 并发基础
-    - 可见性、原子性、有序性问题
+    - [并发编程问题来源](note/concurrent/1_problemSourceAndTreatmentPlan.md)
     - Java内存模型
     - 互斥锁
     - 死锁
